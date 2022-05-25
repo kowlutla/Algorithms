@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="SortingAlgorithms"/>
+	<classpathentry kind="src" path="SearchingAlgorithms"/>
+	<classpathentry kind="src" path="Prefix Sum Algorithm"/>
+	<classpathentry kind="src" path="Two Pointers Algorithm"/>
+	<classpathentry kind="src" path="Sieve Of Eratosthenes"/>
+	<classpathentry kind="src" path="Greedy Algorithm"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
